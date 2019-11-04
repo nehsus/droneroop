@@ -17,4 +17,4 @@ IF THE ABOVE DOES NOT WORK, Then follow these steps:
     - type (inside the container): "python3 TelloTV.py"
 4. Profit
 
-
+All credits go to https://github.com/Jabrils/TelloTV
